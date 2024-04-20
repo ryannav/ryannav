@@ -2,7 +2,7 @@
 <img align="right" alt="frog" style="max-width: 100%;" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/tenor.gif"/>
 
 <h3 align="left">Feel free to call me Ryan, I am a Computer Science student from Arizona State University, specializing in Software Engineering, with a minor in Business and a certificate in Informatics. Dedicated to mastering the intricacies of Front-End Development, driven by a strong interest in leveraging data for innovation and enhancing user experiences. Expected to graduate in May 2024.</h3>
-- 📫 How to reach me **ryannav02@gmail.com**
+- 📫 How to reach me <a href="mailto:ryannav02@gmail.com" style="text-decoration: none;">ryannav02@gmail.com</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
