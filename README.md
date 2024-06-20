@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, I'm Manuel Navarro</h1>
 <img align="right" alt="frog" style="max-width: 100%;" src="https://c.tenor.com/YUzRkMOL-3EAAAAC/tenor.gif"/>
 
-<h3 align="left">Feel free to call me Ryan, I recently graduated with my bachelors degreen in computer science from Arizona State University, specializing in Software Engineering, with a minor in Business and a certificate in Informatics. Dedicated to mastering the intricacies of Front-End Development, driven by a strong interest in leveraging data for innovation and enhancing user experiences.</h3>
+<h3 align="left">Feel free to call me Ryan, I recently graduated with my bachelors degree in computer science from Arizona State University, specializing in Software Engineering, with a minor in Business and a certificate in Informatics. Dedicated to mastering the intricacies of Front-End Development, driven by a strong interest in leveraging data for innovation and enhancing user experiences.</h3>
 - 📫 How to reach me <a href="mailto:ryannav02@gmail.com" style="text-decoration: none;">ryannav02@gmail.com</a>
 
 
